@@ -9,6 +9,10 @@ This is a simple Alfred Workflow that auto-correct your typing and:
 - ``en-sentence``: Search sentence example in yourdictionary.com
 - ``trans-cn``:Search word in Google Translate to Simplified Chinese
 
+**Note**:
+
+    This workflow depends on google complete API, you have to be able to connect to google.com
+
 **Installation**:
 
 Go to https://github.com/MacHu-GWU/afwf_english_learner-project/releases, download the latest ``English Learner.alfredworkflow`` file, double click to install.
